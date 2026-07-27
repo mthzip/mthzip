@@ -14,7 +14,7 @@
       <h2>Contato</h2>
       <ul>
         <li>Instagram: <a href="https://www.instagram.com/mthzip/">Mthzip</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/matheus-almeida-99b590373/">Matheus A. Almeida</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/mthzip/">Matheus A. Almeida</a></li>
         <li>Website: <a href="https://matheusalmeida.vercel.app/">Matheusalmeida.vercel.app</a></li>
       </ul>
     </td>
